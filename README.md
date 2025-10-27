@@ -1,9 +1,9 @@
-## Hi there 👋
+ ## Hi there 👋
 
-<!--# Hi there, I'm [Yaa Boatemaa Acheampong]! 👋
+I'm [Yaa Boatemaa Acheampong]! 👋
 
-![Banner Image](your![IMAGE1](https://github.com/user-attachments/assets/26a5832e-5294-4490-a8ae-ecda17dad875)
-_banner_image_url_here)
+![Banner Image](your![IMAGE1](_![IMAGE1](https://github.com/user-attachments/assets/1a34039e-0b3c-43e2-a4ee-62372adea793)
+banner_image_url_here)
 
 ## About Me 🚀
 
